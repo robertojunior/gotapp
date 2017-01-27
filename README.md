@@ -1,6 +1,6 @@
 # README #
 
-This app is a short test to ZazCar
+This app is a short test to ZazCar that list and show details from all characters of Game Of Thrones.
 
 ### Third party libraries ###
 
